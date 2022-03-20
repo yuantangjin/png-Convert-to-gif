@@ -1,0 +1,165 @@
+					<setmkbound mk="1"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0050" y="0.0000" z="0.0050" />
+						<point x="0.0050" y="-0.0000" z="0.0050" />
+					</drawcylinder>
+					<setmkbound mk="2"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0150" y="0.0000" z="0.0050" />
+						<point x="0.0150" y="-0.0000" z="0.0050" />
+					</drawcylinder>
+					<setmkbound mk="3"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0250" y="0.0000" z="0.0050" />
+						<point x="0.0250" y="-0.0000" z="0.0050" />
+					</drawcylinder>
+					<setmkbound mk="4"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0350" y="0.0000" z="0.0050" />
+						<point x="0.0350" y="-0.0000" z="0.0050" />
+					</drawcylinder>
+					<setmkbound mk="5"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0450" y="0.0000" z="0.0050" />
+						<point x="0.0450" y="-0.0000" z="0.0050" />
+					</drawcylinder>
+					<setmkbound mk="6"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0550" y="0.0000" z="0.0050" />
+						<point x="0.0550" y="-0.0000" z="0.0050" />
+					</drawcylinder>
+					<setmkbound mk="7"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0100" y="0.0000" z="0.0137" />
+						<point x="0.0100" y="-0.0000" z="0.0137" />
+					</drawcylinder>
+					<setmkbound mk="8"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0200" y="0.0000" z="0.0137" />
+						<point x="0.0200" y="-0.0000" z="0.0137" />
+					</drawcylinder>
+					<setmkbound mk="9"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0300" y="0.0000" z="0.0137" />
+						<point x="0.0300" y="-0.0000" z="0.0137" />
+					</drawcylinder>
+					<setmkbound mk="10"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0400" y="0.0000" z="0.0137" />
+						<point x="0.0400" y="-0.0000" z="0.0137" />
+					</drawcylinder>
+					<setmkbound mk="11"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0500" y="0.0000" z="0.0137" />
+						<point x="0.0500" y="-0.0000" z="0.0137" />
+					</drawcylinder>
+					<setmkbound mk="12"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0050" y="0.0000" z="0.0223" />
+						<point x="0.0050" y="-0.0000" z="0.0223" />
+					</drawcylinder>
+					<setmkbound mk="13"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0150" y="0.0000" z="0.0223" />
+						<point x="0.0150" y="-0.0000" z="0.0223" />
+					</drawcylinder>
+					<setmkbound mk="14"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0250" y="0.0000" z="0.0223" />
+						<point x="0.0250" y="-0.0000" z="0.0223" />
+					</drawcylinder>
+					<setmkbound mk="15"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0350" y="0.0000" z="0.0223" />
+						<point x="0.0350" y="-0.0000" z="0.0223" />
+					</drawcylinder>
+					<setmkbound mk="16"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0450" y="0.0000" z="0.0223" />
+						<point x="0.0450" y="-0.0000" z="0.0223" />
+					</drawcylinder>
+					<setmkbound mk="17"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0550" y="0.0000" z="0.0223" />
+						<point x="0.0550" y="-0.0000" z="0.0223" />
+					</drawcylinder>
+					<setmkbound mk="18"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0100" y="0.0000" z="0.0310" />
+						<point x="0.0100" y="-0.0000" z="0.0310" />
+					</drawcylinder>
+					<setmkbound mk="19"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0200" y="0.0000" z="0.0310" />
+						<point x="0.0200" y="-0.0000" z="0.0310" />
+					</drawcylinder>
+					<setmkbound mk="20"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0300" y="0.0000" z="0.0310" />
+						<point x="0.0300" y="-0.0000" z="0.0310" />
+					</drawcylinder>
+					<setmkbound mk="21"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0400" y="0.0000" z="0.0310" />
+						<point x="0.0400" y="-0.0000" z="0.0310" />
+					</drawcylinder>
+					<setmkbound mk="22"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0500" y="0.0000" z="0.0310" />
+						<point x="0.0500" y="-0.0000" z="0.0310" />
+					</drawcylinder>
+					<setmkbound mk="23"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0050" y="0.0000" z="0.0396" />
+						<point x="0.0050" y="-0.0000" z="0.0396" />
+					</drawcylinder>
+					<setmkbound mk="24"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0150" y="0.0000" z="0.0396" />
+						<point x="0.0150" y="-0.0000" z="0.0396" />
+					</drawcylinder>
+					<setmkbound mk="25"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0250" y="0.0000" z="0.0396" />
+						<point x="0.0250" y="-0.0000" z="0.0396" />
+					</drawcylinder>
+					<setmkbound mk="26"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0350" y="0.0000" z="0.0396" />
+						<point x="0.0350" y="-0.0000" z="0.0396" />
+					</drawcylinder>
+					<setmkbound mk="27"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0450" y="0.0000" z="0.0396" />
+						<point x="0.0450" y="-0.0000" z="0.0396" />
+					</drawcylinder>
+					<setmkbound mk="28"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0550" y="0.0000" z="0.0396" />
+						<point x="0.0550" y="-0.0000" z="0.0396" />
+					</drawcylinder>
+					<setmkbound mk="29"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0100" y="0.0000" z="0.0483" />
+						<point x="0.0100" y="-0.0000" z="0.0483" />
+					</drawcylinder>
+					<setmkbound mk="30"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0200" y="0.0000" z="0.0483" />
+						<point x="0.0200" y="-0.0000" z="0.0483" />
+					</drawcylinder>
+					<setmkbound mk="31"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0300" y="0.0000" z="0.0483" />
+						<point x="0.0300" y="-0.0000" z="0.0483" />
+					</drawcylinder>
+					<setmkbound mk="32"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0400" y="0.0000" z="0.0483" />
+						<point x="0.0400" y="-0.0000" z="0.0483" />
+					</drawcylinder>
+					<setmkbound mk="33"/>
+					<drawcylinder radius="0.005" >
+						<point x="0.0500" y="0.0000" z="0.0483" />
+						<point x="0.0500" y="-0.0000" z="0.0483" />
+					</drawcylinder>
